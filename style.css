@@ -187,11 +187,13 @@ footer img {
     max-width: 100vw;
   }
 
-  .cssproperties {    
+  .cssproperties {
+    min-width: 100vw;    
     max-width: 100vw;
   }
 
   .table3 {
+    min-width: 100vw;
     max-width: 100vw;
   }
 
@@ -199,6 +201,7 @@ footer img {
     max-width: 100vw;
   }  
 }
+
 
 
 
