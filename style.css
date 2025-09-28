@@ -158,7 +158,13 @@ footer img {
 }
 
 @media only screen and (max-width: 768px) {
+  header {
+    min-width: 100vw;
+    max-width: 100vw;
+  }  
+
   body {
+    min-width: 80vw;    
     max-width: 100vw;
   }
 
@@ -167,30 +173,38 @@ footer img {
   }
 
   .tabletags {
+    min-width: 80vw;    
     max-width: 100vw;
   }
 
   .table1-table {
+    min-width: 80vw;    
     max-width: 100vw;
   }
 
   .tableattributes {
+    min-width: 80vw;    
     max-width: 100vw;
   }
 
   .table2-table {
+    min-width: 80vw;    
     max-width: 100vw;
   }
 
   .cssproperties {
+    min-width: 80vw;    
     max-width: 100vw;
   }
 
   .table3 {
+    min-width: 80vw;
     max-width: 100vw;
   }
 
   .table3-table {
+    min-width: 80vw;
     max-width: 100vw;
   }  
 }
+
