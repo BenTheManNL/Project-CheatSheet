@@ -1,0 +1,154 @@
+header {
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    background-color: rgba(250, 98, 199, 0.8);
+    border-radius: 50px;
+    color: white;
+    font-family: "Titan One";
+}
+
+header h1 {
+    letter-spacing: 2px;
+}
+
+body {
+    background-color: rgb(248, 233, 204);
+}
+
+.tabletags {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.table1 {
+    margin-top: 80px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    font-family: "Sour Gummy";
+}
+
+.table1-table {
+    align-items: center;
+    text-align: center;
+    width: 50%;
+    border-collapse: collapse;
+    margin-top: 1rem;
+    font-family: Arial, sans-serif;
+}
+
+.table1-table th,
+.table1-table td {
+    border: 1px solid #ccc;
+    padding: 12px;
+    text-align: left;
+    background-color: white;
+}
+
+.table1-table th {
+    background-color: rgba(250, 98, 199, 0.8);
+    color: #fff;
+}
+
+.table2 {
+    margin-top: 80px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    font-family: "Sour Gummy";
+}
+
+.tableattributes {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.table2-table {
+    align-items: center;
+    text-align: center;
+    width: 50%;
+    border-collapse: collapse;
+    margin-top: 1rem;
+    font-family: Arial, sans-serif;
+}
+
+.table2-table th,
+.table2-table td {
+    border: 1px solid #ccc;
+    padding: 12px;
+    text-align: left;
+    background-color: white;
+}
+
+.table2-table th {
+    background-color: rgba(250, 98, 199, 0.8);
+    color: #fff;
+}
+
+.example {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+    font-family: "Sour Gummy";
+}
+
+.examplebox {
+    text-align: center;
+}
+
+.table3 {
+    margin-top: 80px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    font-family: "Sour Gummy";
+}
+
+.cssproperties {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.table3-table {
+    align-items: center;
+    text-align: center;
+    width: 50%;
+    border-collapse: collapse;
+    margin-top: 1rem;
+    font-family: Arial, sans-serif;
+}
+
+.table3-table th,
+.table3-table td {
+    border: 1px solid #ccc;
+    padding: 12px;
+    text-align: left;
+    background-color: white;
+}
+
+.table3-table th {
+    background-color: rgba(250, 98, 199, 0.8);
+    color: #fff;
+}
+
+footer {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    gap: 40px;
+    color: white;
+    background-color: rgba(250, 98, 199, 0.8);
+    margin-top: 30px;
+    width: 100%;
+    border-radius: 50px;
+}
+
+footer img {
+    height: 19px
+}
