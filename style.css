@@ -193,18 +193,19 @@ footer img {
   }
 
   .cssproperties {
-    min-width: 80vw;    
-    max-width: 100vw;
+    min-width: 60vw;    
+    max-width: 80vw;
   }
 
   .table3 {
-    min-width: 80vw;
-    max-width: 100vw;
+    min-width: 60vw;
+    max-width: 80vw;
   }
 
   .table3-table {
-    min-width: 80vw;
-    max-width: 100vw;
+    min-width: 60vw;
+    max-width: 80vw;
   }  
 }
+
 
