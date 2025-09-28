@@ -169,7 +169,7 @@ footer img {
   }
 
   img {
-    max-width: 100vw;
+    max-width: 90vw;
   }
 
   .tabletags {
@@ -207,5 +207,6 @@ footer img {
     max-width: 80vw;
   }  
 }
+
 
 
