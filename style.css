@@ -198,9 +198,11 @@ footer img {
   }
 
   .table3-table {
+    min-width: 100vw;  
     max-width: 100vw;
   }  
 }
+
 
 
 
