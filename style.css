@@ -159,8 +159,8 @@ footer img {
 
 @media only screen and (max-width: 768px) {
   header {
-    min-width: 95vw;
-    max-width: 95vw;
+    min-width: 100vw;
+    max-width: 100vw;
   }  
 
   body {
@@ -208,10 +208,11 @@ footer img {
   }  
 
   footer {
-    min-width: 95vw;
-    max-width: 95vw;
+    min-width: 100vw;
+    max-width: 100vw;
   }  
 }
+
 
 
 
