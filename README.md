@@ -8,6 +8,6 @@ I needed to make a <strong>CheatSheet</strong> containing information about <str
 I chose to make a cheatsheet for <strong>Table Tags & Common CSS properties</strong>.
 I used my current knowledge of HTML&CSS to make a static website containing tables with information.
 
-<strong>view it here</strong>: https://benthemannl.github.io/Project-CheatSheet/
+<strong>view it here</strong>: <a href="https://benthemannl.github.io/Project-CheatSheet/" target="_blank">https://benthemannl.github.io/Project-CheatSheet/</a>
 
 <strong>PREVIEW</strong>: <img width="2541" height="1301" alt="image" src="https://github.com/user-attachments/assets/4d9fcabc-5dd5-4819-8ba8-992bc43a6665" />
